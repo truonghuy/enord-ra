@@ -1,0 +1,29 @@
+{
+  "name": "enord-ra",
+  "version": "0.0.1",
+  "description": "Try to use node-ar-drone to control my AR Drone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "stop": "node stop.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truonghuy/enord-ra.git"
+  },
+  "keywords": [
+    "uav",
+    "ar-drone",
+    "RL"
+  ],
+  "author": "Truong-Huy Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/truonghuy/enord-ra/issues"
+  },
+  "homepage": "https://github.com/truonghuy/enord-ra#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
